@@ -1,1 +1,7 @@
-Here you will find the pdf file about the Project Planning Phase consist of Project Planning
+Here you will find the pdf files about the Project Design Phase pdf files
+
+1.Problem Solution Fit
+
+2.Proposed Solution
+
+3.Solution Architecture
